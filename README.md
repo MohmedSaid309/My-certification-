@@ -65,5 +65,5 @@ And Here, I keep an updated version of my curriculum vitae that reflects my acad
 
 ## 📫 Contact  
 - 📧 Email: msaidibra309@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/mohamedsaid](https://linkedin.com/in/mohamedsaid)  
+- 💼 LinkedIn: [linkedin.com/in/mohamedsaid](https://www.linkedin.com/in/mohamed-said-714687258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🐙 GitHub: [github.com/MohmedSaid309](https://github.com/MohmedSaid309)
