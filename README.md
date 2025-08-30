@@ -58,7 +58,7 @@ And Here, I keep an updated version of my curriculum vitae that reflects my acad
 ---
 
 ## 📥 Download My CV  
-👉 [Download Latest CV](./Mohamed_Said_CV.pdf)  
+👉 [Download Latest CV 2024-2025](./Mohamed_Said_CV_2025.pdf)  
 
 ⚡ **Note:** My CV is updated every **September** with my newest achievements and experiences.  
 
