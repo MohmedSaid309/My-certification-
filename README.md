@@ -38,3 +38,32 @@ They are organized into categories for easier navigation.
 ---
 
 ✅ *Click any certificate name above to view it directly.*
+
+
+---
+
+# 📄 My CV  
+
+And Here, I keep an updated version of my curriculum vitae that reflects my academic journey, technical expertise, and professional experiences.  
+
+---
+
+## 🔹 About My CV  
+- 🎓 **Education**: Electronics & Communication Engineering Student at AASTMT  
+- ⚡ **Skills**: Analog & Digital IC Design, Communication Systems, Embedded Systems, Machine Learning & AI Applications  
+- 🛠 **Projects**: Hands-on experience in circuit design, embedded projects, and AI applications  
+- 🌍 **Trainings & Certifications**: Documented from academic and industry programs  
+
+---
+
+## 📥 Download My CV  
+👉 [Download Latest CV](./Mohamed_Said_CV.pdf)  
+
+⚡ **Note:** My CV is updated every **September** with my newest achievements and experiences.  
+
+---
+
+## 📫 Contact  
+- 📧 Email: msaidibra309@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/mohamedsaid](https://linkedin.com/in/mohamedsaid)  
+- 🐙 GitHub: [github.com/MohmedSaid309](https://github.com/MohmedSaid309)
