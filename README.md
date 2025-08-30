@@ -8,7 +8,7 @@ collection of my professional certificates and achievements
 ---
 
 ## 🎓 Online Courses (Coursera)
-- [Coursera Certificate 1](My_certification/Coursera%201B3ZH1PJRLEG.pdf)
+- [Coursera Certificate 1](My-certification/Coursera%201B3ZH1PJRLEG.pdf)
 - [Coursera Certificate 2](My_certification/Coursera%201LQ9N188SWWE.pdf)
 - [Coursera Certificate 3](My_certification/Coursera%2035X61ZISEA82.pdf)
 - [Coursera Certificate 4](My_certification/Coursera%20A3633JDV42HK%20(2).pdf)
