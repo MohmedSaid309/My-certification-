@@ -39,17 +39,20 @@ They are organized into categories for easier navigation.
 
 ✅ *Click any certificate name above to view it directly.*
 
+---
+
+#
 
 ---
 
  
-📄 My CV  
+# 📄 My CV  
 
 And Here, I keep an updated version of my curriculum vitae that reflects my academic journey, technical expertise, and professional experiences.  
 
 ---
 
-🔹 About My CV  
+## 🔹 About My CV  
 - 🎓 **Education**: Electronics & Communication Engineering Student at AASTMT  
 - ⚡ **Skills**: Analog & Digital IC Design, Communication Systems, Embedded Systems, Machine Learning & AI Applications  
 - 🛠 **Projects**: Hands-on experience in circuit design, embedded projects, and AI applications  
