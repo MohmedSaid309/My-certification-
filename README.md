@@ -1,5 +1,5 @@
 # 📜 My Certifications
-## A Collection of My Professional Certificates and Achievements
+A collection of my professional certificates and achievements
 
 This repository contains my academic, technical, and professional certifications.  
 They are organized into categories for easier navigation.  
@@ -7,33 +7,33 @@ They are organized into categories for easier navigation.
 ---
 
 ## 🎓 Online Courses (Coursera)
-- [Coursera Certificate 1](My-certification-/Coursera%201B3ZH1PJRLEG.pdf)
-- [Coursera Certificate 2](My-certification-/Coursera%201LQ9N188SWWE.pdf)
-- [Coursera Certificate 3](My-certification-/Coursera%2035X61ZISEA82.pdf)
-- [Coursera Certificate 4](My-certification-/Coursera%20A3633JDV42HK%20(2).pdf)
-- [Coursera Certificate 5](My-certification-/Coursera%20CUSVSXVBSIWA.pdf)
-- [Coursera Certificate 6](My-certification-/Coursera%20IVO8AID8S9QC_copy.pdf)
-- [Coursera Certificate 7](My-certification-/Coursera%20IZDX1IUCX2VH.pdf)
-- [Coursera Certificate 8](My-certification-/Coursera%20ZWMGN78SAM44.pdf)
+- [Coursera Certificate 1](Coursera%201B3ZH1PJRLEG.pdf)
+- [Coursera Certificate 2](Coursera%201LQ9N188SWWE.pdf)
+- [Coursera Certificate 3](Coursera%2035X61ZISEA82.pdf)
+- [Coursera Certificate 4](Coursera%20A3633JDV42HK%20(2).pdf)
+- [Coursera Certificate 5](Coursera%20CUSVSXVBSIWA.pdf)
+- [Coursera Certificate 6](Coursera%20IVO8AID8S9QC_copy.pdf)
+- [Coursera Certificate 7](Coursera%20IZDX1IUCX2VH.pdf)
+- [Coursera Certificate 8](Coursera%20ZWMGN78SAM44.pdf)
 
 ---
 
 ## 🌐 Networking
-- [Cisco CCNA](My-certification-/DOC-20250816-WA0007..pdf)
+- [Cisco CCNA](DOC-20250816-WA0007..pdf)
 
 ---
 
 ## 🏭 Trainings & Internships
-- [UCLAN / University Training](My-certification-/DOC-20250816-WA0006..pdf)  
-- [Abu Qir Fertilizers / Industrial Training](My-certification-/DOC-20250816-WA0008..pdf)  
-- [ANRPC / Industrial Training](My-certification-/DOC-20250816-WA0025..pdf)  
-- [Siemens Energy / Industrial Training](My-certification-/DOC-20250816-WA0009..pdf)  
-- [Siemens Energy / Training Certificate](My-certification-/CamScanner%2008-29-2025%2017.57.pdf)  
+- [UCLAN / University Training](DOC-20250816-WA0006..pdf)  
+- [Abu qir Fertilizers / Industrial Training 1](DOC-20250816-WA0008..pdf)  
+- [ANRPC / Industrial Training 2](DOC-20250816-WA0025..pdf)  
+- [Siemens Energy / Industrial Training 3](DOC-20250816-WA0009..pdf)  
+- [Siemens Energy / Training Certificate 4](CamScanner%2008-29-2025%2017.57.pdf)  
 
 ---
 
 ## 📑 Participation
-- [QT3 Participation Certificate](My-certification-/QT3_Participation_Certificate.pdf)  
+- [QT3 Participation Certificate](QT3_Participation_Certificate.pdf)  
 
 ---
 
