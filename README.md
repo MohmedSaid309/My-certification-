@@ -25,10 +25,11 @@ collection of my professional certificates and achievements
 ---
 
 ## 🏭 Trainings & Internships
-- [Enppi / Industrial Training 1](My_certification/DOC-20250816-WA0006..pdf)  
-- [Industrial Training 2](My_certification/DOC-20250816-WA0008..pdf)  
-- [Industrial Training 3](My_certification/DOC-20250816-WA0009..pdf)  
-- [CamScanner Training Certificate](My_certification/CamScanner%2008-29-2025%2017.57.pdf)  
+- [UCLAN / University Training](My_certification/DOC-20250816-WA0006..pdf)  
+- [Abu qir Fertilizers / Industrial Training 1](My_certification/DOC-20250816-WA0008..pdf)
+- [ANRPC / Industrial Training 2](My_certification/DOC-20250816-WA0025..pdf)  
+- [Semins energy / Industrial Training 3](My_certification/DOC-20250816-WA0009..pdf)  
+- [Semins energy / Training Certificate 4](My_certification/CamScanner%2008-29-2025%2017.57.pdf)  
 
 ---
 
